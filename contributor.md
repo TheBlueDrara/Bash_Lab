@@ -1,2 +1,2 @@
 
-There are none. forver lonely.
+There are none. forever lonely.
