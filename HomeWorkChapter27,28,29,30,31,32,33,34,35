@@ -1,0 +1,53 @@
+CHAPTER 27
+
+    1  whoami
+    2  who
+    3  w
+    4  id
+    5  su alex
+    6  adduser bob
+    7  sudo adduser bob
+
+
+Chapter 28
+
+
+    1  adduser -m serena -c "Serena Williams"
+    2  adduser -m -d /home/serena serena -c "Serena Williams"
+    3  sudo adduser --home /home/serena --comment "Serena Williams" serena
+   15  sudo adduser --home /home/venus --shell /bin/bash --comment "Venus Williams" venus
+   16  getent group venus 
+   17  sudo group del venus
+   18  sudo groupdel venus 
+   19  sudo adduser --home /home/venus --shell /bin/bash --comment "Venus Williams" venus
+   20  sudo cat /etc/passwd /etc/shadow /etc/group | grep venus
+   21  sudo cat /etc/passwd /etc/shadow /etc/group | grep serena
+   22  ls -l /home/
+   23  sudo deluser bob
+   24  sudo userad --shell /bin/date einstime
+   25  sudo useradd --shell /bin/dat einstime
+   26  touch welcome.txt /home/serena/
+   27  sudo touch welcome.txt /home/serena/
+   28  ls -l /home/serena/
+   29  sudo ls -l /home/serena/
+   30  sudo ls -l /home/serena
+   31  cd /home/serena/
+   32  sudo cd /home/serena/
+   33  echo Hello > /etc/skel/welcome.txt
+   34* udo echo Hello > /etc/skel/welcome.txt
+   35  su -
+   36  sudo adduser test
+   37  ls -l /home/test/
+   38  sudo ls -l /home/test/
+
+
+Chapter 29
+
+
+    4  cp /etc/shadow /etc/backupshadow
+    5  ls /etc | grep shadow
+    6  vim shadow
+    7  vim /etc/shadow
+    8  vim /etc/shadow
+    9  passwd -S serena
+   10  exit
