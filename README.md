@@ -1,14 +1,14 @@
-###Welcome to **Bash_Lab**! This repository contains Bash scripts and exercises
+### Welcome to **Bash_Lab**! This repository contains Bash scripts and exercises
 
-##This exercises were done on Linux Mint Debian Editon - LMDE environment and may not work on other linux distros.
+## This exercises were done on Linux Mint Debian Editon - LMDE environment and may not work on other linux distros.
 
-#You can find the exercises here:
+# You can find the exercises here:
 [linux fundamentals](https://linux-training.be/)
 
-#See the list of contributors here:  
+# See the list of contributors here:  
 [CONTRIBUTERS.md](CONTRIBUTERS.md)
 
-#Check out the assigned tasks:  
+# Check out the assigned tasks:  
 [TASK.md](TASK.md)
 
 Importnent note, few chapters were done as a simple command run and not a script, hence the text file containing text
