@@ -6,7 +6,7 @@
 [linux fundamentals](https://linux-training.be/)
 
 ### See the list of contributors here:  
-[CONTRIBUTERS.md](CONTRIBUTERS.md)
+[CONTRIBUTERS.md](CONTRIBUTORS.md)
 
 ### Check out the assigned tasks:  
 [TASK.md](TASK.md)
