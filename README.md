@@ -1,8 +1,20 @@
-### Homework yeepee
+###Welcome to **Bash_Lab**! This repository contains Bash scripts and exercises
+
+##This exercises were done on Linux Mint Debian Editon - LMDE environment and may not work on other linux distros.
+
+#You can find the exercises here:
+[linux fundamentals](https://linux-training.be/)
+
+#See the list of contributors here:  
+[CONTRIBUTERS.md](CONTRIBUTERS.md)
+
+#Check out the assigned tasks:  
+[TASK.md](TASK.md)
+
+Importnent note, few chapters were done as a simple command run and not a script, hence the text file containing text
 
 
-## Nothing much to say, part of the homework was done in an old fashion way and the rest is done as a script.
-
+Enjoy!
 
 # Daily WarHammer40K quote - 
 
